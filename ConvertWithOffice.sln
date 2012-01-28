@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertWithPowerPoint", "ConvertWithPowerPoint.csproj", "{806B5808-D9ED-4FEB-AD27-44059687C46A}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertWithOffice", "ConvertWithOffice.csproj", "{806B5808-D9ED-4FEB-AD27-44059687C46A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
